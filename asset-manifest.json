@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Admit_Card/static/css/main.7f84142d.css",
-    "main.js": "/Admit_Card/static/js/main.4b0f2216.js",
+    "main.css": "/Admit_Card/static/css/main.359ac20b.css",
+    "main.js": "/Admit_Card/static/js/main.d87c7adf.js",
     "index.html": "/Admit_Card/index.html",
-    "main.7f84142d.css.map": "/Admit_Card/static/css/main.7f84142d.css.map",
-    "main.4b0f2216.js.map": "/Admit_Card/static/js/main.4b0f2216.js.map"
+    "main.359ac20b.css.map": "/Admit_Card/static/css/main.359ac20b.css.map",
+    "main.d87c7adf.js.map": "/Admit_Card/static/js/main.d87c7adf.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f84142d.css",
-    "static/js/main.4b0f2216.js"
+    "static/css/main.359ac20b.css",
+    "static/js/main.d87c7adf.js"
   ]
 }
